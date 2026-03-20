@@ -1,0 +1,59 @@
+[
+  {
+    "lead_id": 1,
+    "lead": "Hi, I'm looking to build a website for my e-commerce store. Can you help?",
+    "analysis": {
+      "intent": "Business Inquiry",
+      "priority": "Medium",
+      "category": "Sales",
+      "keywords": ["website", "build", "help"],
+      "summary": "Lead identified as a 'Business Inquiry' with Medium priority. Message is 15 words long."
+    },
+    "generated_reply": "Hi,\n\nThank you for reaching out! I'd be happy to help you with your project.\n\nBased on your message, I understand you're looking for professional services or a development project. I'd love to learn more about your requirements so I can suggest the best solution.\n\nCould we schedule a quick call this week to discuss the details?\n\nLooking forward to hearing from you.\n\nBest regards,\nPratik Sangle",
+    "suggested_action": {
+      "action": "Send Portfolio",
+      "rationale": "Share portfolio and case studies, then follow up in 2 days.",
+      "timeline": "Within 1-3 business days",
+      "follow_up_days": 3
+    },
+    "timestamp": "2025-03-20T10:00:00"
+  },
+  {
+    "lead_id": 2,
+    "lead": "We are interested in a long-term partnership for outsourcing our IT support.",
+    "analysis": {
+      "intent": "Partnership",
+      "priority": "Medium",
+      "category": "Business Development",
+      "keywords": ["partner", "partnership", "long-term", "outsource"],
+      "summary": "Lead identified as a 'Partnership' with Medium priority. Message is 14 words long."
+    },
+    "generated_reply": "Hi,\n\nThank you for considering a partnership — I'm excited to explore this opportunity!\n\nLong-term collaborations are something I genuinely value, and I believe we could create real value together. I'd love to understand more about your goals and how we can align our efforts.\n\nLet's schedule a discovery call at your convenience. Please share your availability and I'll confirm a time that works.\n\nWarm regards,\nPratik Sangle",
+    "suggested_action": {
+      "action": "Send Partnership Deck",
+      "rationale": "Share partnership proposal and follow up in 3 days.",
+      "timeline": "Within 1-3 business days",
+      "follow_up_days": 3
+    },
+    "timestamp": "2025-03-20T10:00:01"
+  },
+  {
+    "lead_id": 3,
+    "lead": "I'm having trouble logging into my account. Please assist ASAP.",
+    "analysis": {
+      "intent": "Support Request",
+      "priority": "High",
+      "category": "Customer Support",
+      "keywords": ["trouble", "login", "account", "asap"],
+      "summary": "Lead identified as a 'Support Request' with High priority. Message is 12 words long."
+    },
+    "generated_reply": "Hi,\n\nI'm sorry to hear you're experiencing an issue — I completely understand how frustrating that can be, and I want to resolve this for you as quickly as possible.\n\nTo assist you efficiently, could you please share:\n  1. A brief description of the issue\n  2. Any error messages you're seeing\n  3. The steps you took before the issue occurred\n\nI'll prioritize this and get back to you with a solution shortly.\n\nBest regards,\nPratik Sangle",
+    "suggested_action": {
+      "action": "Escalate Immediately",
+      "rationale": "Resolve within 2 hours. Flag to support team now.",
+      "timeline": "Within 2-24 hours",
+      "follow_up_days": 1
+    },
+    "timestamp": "2025-03-20T10:00:02"
+  }
+]

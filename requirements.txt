@@ -1,0 +1,4 @@
+# Core dependencies (standard library only — no installs needed for simulated mode)
+
+# Optional: uncomment to enable real AI API mode
+# anthropic>=0.20.0
